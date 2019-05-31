@@ -407,5 +407,5 @@ class CommandType(Enum):
 
 ### Pipeline
 
-![nni-pipeline](.\pic\nni-pipeline.png)
+![nni-pipeline](./pic/nni-pipeline.png)
 
