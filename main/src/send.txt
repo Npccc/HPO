@@ -1,0 +1,8 @@
+
+{"parameter_id": 0, "parameter_source": "algorithm", "parameters": {"dropout_rate": 0.8478655413370607, "conv_size": 5, "hidden_size": 512, "batch_size": 8, "learning_rate": 0.1}}
+{"parameter_id": 1, "parameter_source": "algorithm", "parameters": {"dropout_rate": 0.8977412279932401, "conv_size": 3, "hidden_size": 512, "batch_size": 32, "learning_rate": 0.01}}
+"CGqWF"
+"CGqWF"
+"CGqWF"
+"CGqWF"
+"CGqWF"

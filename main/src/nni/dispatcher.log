@@ -1,0 +1,31 @@
+[05/28/2019, 11:04:03 AM] INFO (hyperopt.utils/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[05/28/2019, 11:04:03 AM] INFO (hyperopt.fmin/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[05/28/2019, 11:04:03 AM] INFO (nni.msg_dispatcher_base/MainThread) Start dispatcher
+[05/28/2019, 11:04:04 AM] PRINT Backend Qt5Agg is interactive backend. Turning interactive mode on.
+
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.5
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.9
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 2
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 3
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 5
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 7
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 124
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 512
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 1024
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 1
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 4
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 8
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 16
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 32
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.0001
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.001
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.01
+[05/28/2019, 11:04:05 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.1
+[05/28/2019, 11:04:11 AM] INFO (hyperopt.tpe/Thread-6) tpe_transform took 0.126671 seconds
+[05/28/2019, 11:04:11 AM] INFO (hyperopt.tpe/Thread-6) TPE using 0 trials
+[05/28/2019, 11:04:11 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 2
+[05/28/2019, 11:04:11 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 512
+[05/28/2019, 11:04:11 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 1
+[05/28/2019, 11:04:11 AM] INFO (hyperopt_AutoML/Thread-6) in_x is not a dict or a list in json2space fuinction 0.01
+[05/28/2019, 11:06:36 AM] INFO (nni.msg_dispatcher_base/MainThread) Dispatcher exiting...
+[05/28/2019, 11:06:43 AM] INFO (nni.msg_dispatcher_base/MainThread) Terminated by NNI manager

@@ -1,0 +1,41 @@
+[05/30/2019, 04:53:47 PM] INFO (curvefitting_Assessor/MainThread) Successfully initials the curvefitting assessor
+[05/30/2019, 04:53:47 PM] INFO (nni.msg_dispatcher_base/MainThread) Start dispatcher
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 20
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 21
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 22
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 23
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 24
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 25
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 26
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 27
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.5
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 27
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.9
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 28
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 2
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 29
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 3
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 30
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 5
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 31
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 7
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 32
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 124
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 33
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 512
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 34
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 1024
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 35
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 1
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 36
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 4
+[05/30/2019, 04:53:47 PM] WARNING (nni.msg_dispatcher_base/MainThread) default queue length: 37
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 8
+[05/30/2019, 04:53:47 PM] INFO (nni.msg_dispatcher_base/MainThread) Dispatcher exiting...
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 16
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 32
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.0001
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.001
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.01
+[05/30/2019, 04:53:47 PM] INFO (hyperopt_AutoML/Thread-1) in_x is not a dict or a list in json2space fuinction 0.1
+[05/30/2019, 04:53:50 PM] INFO (nni.msg_dispatcher_base/MainThread) Terminated by NNI manager

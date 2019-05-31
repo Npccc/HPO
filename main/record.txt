@@ -1,0 +1,7 @@
+Intermediate valid accuracy is0.515.
+Intermediate valid accuracy is0.586.
+Intermediate valid accuracy is0.571.
+Intermediate valid accuracy is0.558.
+Intermediate valid accuracy is0.580.
+Final valid accuracy is0.586000.
+Success.
